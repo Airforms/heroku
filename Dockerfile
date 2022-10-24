@@ -1,4 +1,4 @@
-FROM airforms/airforms:v112
+FROM airforms/airforms:v113
 
 WORKDIR /app
 ENV AIRFORMS_SITE_URL http://+:
